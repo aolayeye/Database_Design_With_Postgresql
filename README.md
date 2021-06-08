@@ -25,4 +25,6 @@ In the second part of our analysis, we will use SQL queries to determine the num
       - By joinning the current emplyee table with the dep employee table write a query to determine the count of employees retiring by department.
       - Write SQL to determine employee info by joining columns from the employees, salaries, and department tables
       - Write SQL to determine manager info by joining columns from the current employees, departments, and department manager tables
-      - Write SQL to determine department retirees by adding department to the current employee table
+      - Write SQL to determine department retirees by adding department to the current employee table.
+
+#### Entity Relationship Diagram

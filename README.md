@@ -28,3 +28,20 @@ In the second part of our analysis, we will use SQL queries to determine the num
       - Write SQL to determine department retirees by adding department to the current employee table.
 
 #### Entity Relationship Diagram
+
+### Phase 2: Control Flow
+1. The Number of Retiring Employees by Title
+      - Write a query to determine retirement titles
+      - Using the DISTICT ON statement, retrieve the first occurrence of the employee number for each set of rows defined by the ON () clause.
+      - Select the query result into a new unique_titles table.
+      - Write another query to retrieve the number of employees by their most recent job title who are about to retire.
+
+2. The Employees Eligible for the Mentorship Program
+      - Retrieve the emp_no, first_name, last_name, and birth_date columns from the Employees table
+      - Retrieve the from_date and to_date columns from the Department Employee table.
+      - Retrieve the title column from the Titles table.
+      - Use a DISTINCT ON statement to retrieve the first occurrence of the employee number for each set of rows defined by the ON () clause.
+      - Select the query result into a new mentorship_eligibilty table. 
+      - Join the Employees and the Department Employee tables on the primary key and the Employees and the Titles tables on the primary key.
+      - Filter the data on the to_date column to all the current employees, then filter the data on the birth_date columns to get all the employees whose birth dates are between January 1, 1965 and December 31, 1965.
+      - Order the table by the employee number.

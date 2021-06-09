@@ -45,3 +45,9 @@ In the second part of our analysis, we will use SQL queries to determine the num
       - Join the Employees and the Department Employee tables on the primary key and the Employees and the Titles tables on the primary key.
       - Filter the data on the to_date column to all the current employees, then filter the data on the birth_date columns to get all the employees whose birth dates are between January 1, 1965 and December 31, 1965.
       - Order the table by the employee number.
+
+### Results
+* With 29414, employees with Senior Engineer title are most eligible for retirement.
+* There are only 2 employees with Manager as their title that are eligible for retirement.
+* There are 1549 employees eligible for the mentorship program.
+* Using the COUNT we determine that 

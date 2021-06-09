@@ -51,4 +51,11 @@ In the second part of our analysis, we will use SQL queries to determine the num
 * There are only 2 employees with Manager as their title that are eligible for retirement.
 * There are 1549 employees eligible for the mentorship program.
 * Using the COUNT we determine that the Production and Development departments with 322 and 396 have the highest count of employees eligible for the mentorship program
-* Similarly, using COUNT we also dermine that the Senior Staff and Engineer titles with 569 and 501 counts are the most of all eligible titles.
+
+### Summary
+From our retiring titles table there are 90,398 roles that will be needed to filled when the silver tsunami begins.
+Our mentorship eligibility table reveals that PH has only 1549 eligible employees that may move up to fill higher roles.
+
+PH needs to identify the departments and titles that have the highest share of the 90398.
+From the retiring titles table, we determine that the Senior Staff and Engineer titles with 29414 and 28254 counts are the most of all eligible titles.
+We can decompose the 90398 count by department. This will illuminate the departments that has the biggest need. 

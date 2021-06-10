@@ -52,6 +52,11 @@ In the second part of our analysis, we will use SQL queries to determine the num
 * There are 1549 employees eligible for the mentorship program.
 * Using the COUNT we determine that the Production and Development departments with 322 and 396 have the highest count of employees eligible for the mentorship program
 
+![Retiring_Titles_Count](https://user-images.githubusercontent.com/67847583/121610819-7f62ab80-ca1c-11eb-87e6-dde9b9ed3cb5.png)
+![Mentorship_Eligibility](https://user-images.githubusercontent.com/67847583/121610886-a28d5b00-ca1c-11eb-814a-fbe1674e959c.png)
+![Mentorship_Eligibility_Title_Count](https://user-images.githubusercontent.com/67847583/121610931-bf299300-ca1c-11eb-83f1-bde974d46d10.png)
+
+
 ### Summary
 From our retiring titles table there are 90,398 roles that will be needed to filled when the silver tsunami begins. Our mentorship eligibility table reveals that PH has only 1549 eligible employees that may move up to fill higher roles. This means that PH has a short fall of 88,849 eligible employeees.
 

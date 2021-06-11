@@ -89,3 +89,12 @@ Retiring Departments Count
 
 ![Retiring_Depts_Count](https://user-images.githubusercontent.com/67847583/121614872-47ac3180-ca25-11eb-92bb-d54d348815dc.png)
 
+Shortfall By Title
+
+![Shortfall_By_Titles](https://user-images.githubusercontent.com/67847583/121615005-880baf80-ca25-11eb-92eb-8354776df054.png)
+
+Shortfall By Departments
+
+![Shortfall_By_Depts](https://user-images.githubusercontent.com/67847583/121615049-99ed5280-ca25-11eb-902b-04676399288c.png)
+
+

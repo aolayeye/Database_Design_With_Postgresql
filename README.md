@@ -80,3 +80,12 @@ From our retiring titles table there are 90,398 roles that will be needed to fil
 To address this shaortfall, PH needs to identify the departments and titles that have the highest share of the 88,849 and focus their efforts on these departments and titles.
 From the retiring titles table, we determine that the Senior Staff and Engineer titles with 29414 and 28254 counts are the most of all eligible titles.
 We can decompose the 90398 count by department. This will illuminate the departments that has the biggest need. 
+
+Retiring Departments
+
+![Retiring_Depts](https://user-images.githubusercontent.com/67847583/121614823-2b0ff980-ca25-11eb-9f67-5702f825011e.png)
+
+Retiring Departments Count
+
+![Retiring_Depts_Count](https://user-images.githubusercontent.com/67847583/121614872-47ac3180-ca25-11eb-92bb-d54d348815dc.png)
+

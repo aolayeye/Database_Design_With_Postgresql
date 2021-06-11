@@ -56,6 +56,9 @@ In the second part of our analysis, we will use SQL queries to determine the num
 ![Mentorship_Eligibility](https://user-images.githubusercontent.com/67847583/121611377-b84f5000-ca1d-11eb-8d98-13fa120be2cd.png)
 ![Retiring_Titles_Count_](https://user-images.githubusercontent.com/67847583/121612458-111fe800-ca20-11eb-8fce-58e0f79ed62f.png)
 ![Mentorship_Eligibility_Title_Count](https://user-images.githubusercontent.com/67847583/121610931-bf299300-ca1c-11eb-83f1-bde974d46d10.png)
+![Mentorship_Eligibility_Dept_Count_](https://user-images.githubusercontent.com/67847583/121613377-ea62b100-ca21-11eb-8245-f9c26cec02d2.png)
+
+
 
 
 ### Summary

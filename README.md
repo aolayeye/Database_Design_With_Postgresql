@@ -28,6 +28,8 @@ In the second part of our analysis, we will use SQL queries to determine the num
       * Write SQL to determine department retirees by adding department to the current employee table.
 
 #### Entity Relationship Diagram
+![QuickDBD-export](https://user-images.githubusercontent.com/67847583/121631444-bd73c580-ca44-11eb-8151-dcb529fb3a1a.png)
+
 
 ### Phase 2: Control Flow
 1. The Number of Retiring Employees by Title

@@ -83,7 +83,7 @@ To address this shaortfall, PH needs to identify the departments and titles that
 From the retiring titles table, we determine that the Senior Staff and Engineer titles with 29414 and 28254 counts are the most of all eligible titles.
 We can decompose the 90398 count by department. This will illuminate the departments that has the biggest need. 
 
-The Development department with 23,927 is has the biggest shortfall of eligible employees for the mentorship program
+The Development department with 23,927 has the biggest shortfall of eligible employees for the mentorship program
 
 Retiring Departments
 

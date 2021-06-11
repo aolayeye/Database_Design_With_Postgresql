@@ -53,7 +53,7 @@ In the second part of our analysis, we will use SQL queries to determine the num
 * Using the COUNT we determine that the Production and Development departments with 322 and 396 have the highest count of employees eligible for the mentorship program
 
 ![Mentorship_Eligibility](https://user-images.githubusercontent.com/67847583/121611377-b84f5000-ca1d-11eb-8d98-13fa120be2cd.png)
-![Retiring_Titles_Count](https://user-images.githubusercontent.com/67847583/121611298-8b02a200-ca1d-11eb-8df3-b8d7fd5e5e30.png)
+![Retiring_Titles_Count_](https://user-images.githubusercontent.com/67847583/121612458-111fe800-ca20-11eb-8fce-58e0f79ed62f.png)
 ![Mentorship_Eligibility_Title_Count](https://user-images.githubusercontent.com/67847583/121610931-bf299300-ca1c-11eb-83f1-bde974d46d10.png)
 
 

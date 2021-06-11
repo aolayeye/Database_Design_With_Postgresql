@@ -55,13 +55,14 @@ In the second part of our analysis, we will use SQL queries to determine the num
 * Using the COUNT we determine that the Senior Staff and Engineer titles have the highest count of 569 and 501 eligible employees for the mentorship program
 * Using the COUNT we determine that the Production and Development departments with 322 and 396 have the highest count of employees eligible for the mentorship program
 
-Mentorship Eligibility
+Number of Employees Retiring By Title
+
+![Retiring_Titles_Count_](https://user-images.githubusercontent.com/67847583/121635940-bbae0000-ca4c-11eb-8bfb-51eaa8932e35.png)
+
+
+The Employees Eligible for the Mentorship Program
+
 ![Mentorship_Eligibility_](https://user-images.githubusercontent.com/67847583/121614069-8b05a080-ca23-11eb-88e5-5148214b431e.png)
-
-
-Retiring Titles Count
-
-![Retiring_Titles_Count_](https://user-images.githubusercontent.com/67847583/121614116-a40e5180-ca23-11eb-8f1f-22be28c92ee6.png)
 
 
 Mentorship Eligibility Title Count

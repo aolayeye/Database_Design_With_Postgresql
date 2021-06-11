@@ -1,16 +1,16 @@
 # Pewlett-Hackard-Analysis
 ## Overview
-The Pewlett-Hackard-Analysis is about creating database designs or Entity Relationship Diagrams, designing and managing tables and writing SQL queries to explore and manipulate data in database tables. SQL queries will ask questions from our data and discover the relationships between different data tables using relational databases. In the PH Analysis, we would design a database to address two issues the company faces as its baby boomer generation begins to retire. 1) The company is offering retirement packages for those who meet certain criteria, and 2) the comapny wants to know which positions will need to be filled in the near future when many employees retire at the same time. 
+The Pewlett-Hackard-Analysis is about creating database designs or Entity Relationship Diagrams, designing and managing tables, and writing SQL queries to explore and manipulate data in database tables. SQL queries will ask questions from our data and discover the relationships between different data tables using relational databases. In the PH Analysis, we would design a database to address two issues the company faces as its baby boomer generation begins to retire. 1) The company is offering retirement packages for those who meet specific criteria, and 2) the company wants to know which positions will be affected when many employees retire at the same time. 
 
-To answer these broad questionsour analysis will reframe the ask into two questions:
+To determine which employees are retiring and those that are eligible for mentorship, our analysis will reframe the ask into two questions:
 1. Who will be retiring in the next few years
 2. How many positions will Pewlett-Hackard need to fill
 
 This analysis will help future-proof the company by generating a list of all employees eligible for the retirement package.
 
-In the first part of our analysis, we will create a database design or Entity Relationship Diagram from the CSV files the company has been using to manage its employee data for many years. we would apply data modellling, engineering and analysis skills to get the PH database running.
+In the first part of our analysis, we will create a database design or Entity Relationship Diagram from the CSV files the company has been using to manage its employee data for many years. We would apply data modeling, engineering, and analysis skills to get the PH database running.
 
-In the second part of our analysis, we will use SQL queries to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. In the end, will prepare a report to help the company prepare for the large scale retirement.
+In the second part of our analysis, we will use SQL queries to determine the number of retiring employees per title and identify eligible employees to participate in a mentorship program. In the end, we will prepare a report to help the company prepare for the upcoming large-scale retirement.
 
 ### Phase 1: Control Flow
 1. Identify and define the common columns in the employee CSVs.
@@ -29,9 +29,6 @@ In the second part of our analysis, we will use SQL queries to determine the num
 
 #### Entity Relationship Diagram
 ![PH_ERD](https://user-images.githubusercontent.com/67847583/121631909-9a95e100-ca45-11eb-863d-5a9adb2b9a12.png)
-
-
-
 
 
 ### Phase 2: Control Flow
@@ -75,7 +72,6 @@ Mentorship Eligibility Title Count
 Mentorship Eligibility Department Count
 
 ![Mentorship_Eligibility_Dept_Count_](https://user-images.githubusercontent.com/67847583/121614222-d91aa400-ca23-11eb-8e7d-92dd4f00dcc7.png)
-
 
 
 

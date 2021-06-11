@@ -52,8 +52,8 @@ In the second part of our analysis, we will use SQL queries to determine the num
 * With 29,414, employees with Senior Engineer title are most eligible for retirement.
 * There are only 2 employees with Manager as their title that are eligible for retirement.
 * There are 1549 employees eligible for the mentorship program.
-* Using the COUNT we determine that the Senior Staff and Engineer titles have the highest count of 569 and 501 eligible employees for the mentorship program
-* Using the COUNT we determine that the Production and Development departments with 322 and 396 have the highest count of employees eligible for the mentorship program
+* Using the COUNT function we determine that the Senior Staff and Engineer titles have the highest count of 569 and 501 eligible employees for the mentorship program
+* Using the COUNT function we determine that the Production and Development departments with 322 and 396 have the highest count of employees eligible for the mentorship program
 
 Number of Employees Retiring By Title
 

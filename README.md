@@ -28,7 +28,8 @@ In the second part of our analysis, we will use SQL queries to determine the num
       * Write SQL to determine department retirees by adding department to the current employee table.
 
 #### Entity Relationship Diagram
-![QuickDBD-export](https://user-images.githubusercontent.com/67847583/121631578-f6139f00-ca44-11eb-8cd4-3ea8a3cd97b6.png)
+![QuickDBD-export](https://user-images.githubusercontent.com/67847583/121631671-265b3d80-ca45-11eb-8ca7-edddc4ac2fb5.png)
+
 
 
 
